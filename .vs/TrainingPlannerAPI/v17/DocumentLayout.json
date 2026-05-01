@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\controllers\\rutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\controllers\\rutinascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\dtos\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\dtos\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\dtos\\rutinacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\dtos\\rutinacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|c:\\users\\fpabl\\source\\trainingplannerapi\\trainingplannerapi\\dtos\\rutinaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2657DF-189F-4A99-B6F1-B9383567E039}|TrainingPlannerAPI\\TrainingPlannerAPI.csproj|solutionrelative:trainingplannerapi\\dtos\\rutinaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\appsettings.Development.json",
+              "RelativeToolTip": "TrainingPlannerAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-01T01:42:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:33:25.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:31:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Program.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T01:37:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\appsettings.json",
+              "RelativeToolTip": "TrainingPlannerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T01:35:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EjercicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\EjercicioDTO.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\DTOs\\EjercicioDTO.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\EjercicioDTO.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\DTOs\\EjercicioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:58:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RutinaCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\RutinaCreateDTO.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\DTOs\\RutinaCreateDTO.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\RutinaCreateDTO.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\DTOs\\RutinaCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:51:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RutinaResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\RutinaResponseDTO.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\DTOs\\RutinaResponseDTO.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\DTOs\\RutinaResponseDTO.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\DTOs\\RutinaResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:03:37.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RutinasController.cs",
+              "DocumentMoniker": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Controllers\\RutinasController.cs",
+              "RelativeDocumentMoniker": "TrainingPlannerAPI\\Controllers\\RutinasController.cs",
+              "ToolTip": "C:\\Users\\fpabl\\source\\TrainingPlannerAPI\\TrainingPlannerAPI\\Controllers\\RutinasController.cs",
+              "RelativeToolTip": "TrainingPlannerAPI\\Controllers\\RutinasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:04:47.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
