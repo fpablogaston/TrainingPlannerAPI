@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -16,7 +17,8 @@ namespace TrainingPlannerAPI.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    NombreAlumno = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    NombreAlumno = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -32,7 +34,7 @@ namespace TrainingPlannerAPI.Migrations
                     Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Series = table.Column<int>(type: "int", nullable: false),
                     Repeticiones = table.Column<int>(type: "int", nullable: false),
-                    RutinaId = table.Column<int>(type: "int", nullable: true)
+                    RutinaId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -41,7 +43,8 @@ namespace TrainingPlannerAPI.Migrations
                         name: "FK_Ejercicios_Rutinas_RutinaId",
                         column: x => x.RutinaId,
                         principalTable: "Rutinas",
-                        principalColumn: "Id");
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(

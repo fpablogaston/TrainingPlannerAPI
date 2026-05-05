@@ -12,7 +12,7 @@ using TrainingPlannerAPI.Data;
 namespace TrainingPlannerAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260404142725_Inicial")]
+    [Migration("20260504235552_Inicial")]
     partial class Inicial
     {
         /// <inheritdoc />
@@ -20,7 +20,7 @@ namespace TrainingPlannerAPI.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "8.0.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -39,7 +39,7 @@ namespace TrainingPlannerAPI.Migrations
                     b.Property<int>("Repeticiones")
                         .HasColumnType("int");
 
-                    b.Property<int?>("RutinaId")
+                    b.Property<int>("RutinaId")
                         .HasColumnType("int");
 
                     b.Property<int>("Series")
@@ -60,6 +60,9 @@ namespace TrainingPlannerAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<DateTime>("FechaCreacion")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("NombreAlumno")
                         .HasColumnType("nvarchar(max)");
 
@@ -70,9 +73,13 @@ namespace TrainingPlannerAPI.Migrations
 
             modelBuilder.Entity("TrainingPlannerAPI.Models.Ejercicio", b =>
                 {
-                    b.HasOne("TrainingPlannerAPI.Models.Rutina", null)
+                    b.HasOne("TrainingPlannerAPI.Models.Rutina", "Rutina")
                         .WithMany("Ejercicios")
-                        .HasForeignKey("RutinaId");
+                        .HasForeignKey("RutinaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Rutina");
                 });
 
             modelBuilder.Entity("TrainingPlannerAPI.Models.Rutina", b =>
