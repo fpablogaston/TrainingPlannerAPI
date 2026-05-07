@@ -12,5 +12,11 @@ namespace TrainingPlannerAPI.Data
         
         public DbSet<Rutina> Rutinas { get; set; }
         public DbSet<Ejercicio> Ejercicios { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Rutina>().ToTable("rutinas");
+            modelBuilder.Entity<Ejercicio>().ToTable("ejercicios");
+        }
     }
 }

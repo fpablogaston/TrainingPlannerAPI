@@ -87,7 +87,7 @@ namespace TrainingPlannerAPI.Controllers
                 return StatusCode(500, "Ocurrio un error inesperado");
             }
 
-                return Ok(new RutinaResponseDTO
+            return Ok(new RutinaResponseDTO
                 {
                     Id = rutina.Id,
                     NombreAlumno = rutina.NombreAlumno,
